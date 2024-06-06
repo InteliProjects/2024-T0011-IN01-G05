@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="textoVitoria.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.71962846"
+     inkscape:cx="997.04227"
+     inkscape:cy="581.55009"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,35,0,1 @ F,0,0,1,0,35,0,1 @ F,0,0,1,0,35,0,1 @ F,0,0,1,0,35,0,1"
+       radius="35"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter6"
+       x="-0.00052355763"
+       y="-0.0040810658"
+       width="1.0010471"
+       height="1.0081621">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix6" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2"
+         id="feBlend6" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#a8ffa8;fill-opacity:1;stroke:#1e8148;stroke-width:1.029;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="1216.4585"
+       height="432.3439"
+       x="387.14432"
+       y="320.32755"
+       inkscape:path-effect="#path-effect1"
+       sodipodi:type="rect"
+       d="M 422.14432,320.32755 H 1568.6028 a 35,35 45 0 1 35,35 v 362.3439 a 35,35 135 0 1 -35,35 H 422.14432 a 35,35 45 0 1 -35,-35 v -362.3439 a 35,35 135 0 1 35,-35 z"
+       transform="translate(1.9708914e-5,29.477994)" />
+    <text
+       xml:space="preserve"
+       style="font-size:180.933px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';fill:#00f700;fill-opacity:1;stroke:#1e8148;stroke-width:1.029;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6)"
+       x="501.92856"
+       y="528.49896"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="501.92856"
+         y="528.49896"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180.933px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008000">Você venceu!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';text-align:center;text-anchor:middle;fill:#434343;fill-opacity:1;stroke:#e1e1e1;stroke-width:1.029;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="1002.2374"
+       y="624.06213"
+       id="text1-6"><tspan
+         sodipodi:role="line"
+         x="1002.2374"
+         y="624.06213"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:48px;font-family:Sans;-inkscape-font-specification:'Sans, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#2d2d2d;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="tspan5">Vá para baixo na página e siga para </tspan><tspan
+         sodipodi:role="line"
+         x="1002.2374"
+         y="686.14825"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:48px;font-family:Sans;-inkscape-font-specification:'Sans, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#2d2d2d;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="tspan6">o próximo passo.</tspan></text>
+  </g>
+</svg>

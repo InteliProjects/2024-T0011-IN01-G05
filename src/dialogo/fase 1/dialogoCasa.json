@@ -1,0 +1,103 @@
+{
+  "miguelzinho": [
+    {
+      "0": "Bom dia! Que prazer recebê-lo no \nEngage."
+    },
+    {
+      "1": "Sou o Miguel e como seu assistente \nvirtual, estou aqui para guiá-lo nesta \njornada empolgante de aprendizado e \ndescoberta na Oracle Academy."
+    },
+    {
+      "2": "Aqui é um espaço criado especialmente \npara educadores como você, que buscam se \nmanter atualizados com as últimas tendências\ntecnológicas e integrá-las ao\nambiente educacional."
+    },
+    {
+      "3": "Antes de começarmos, queria te explicar \nalgumas funções: O ícone no canto superior \nesquerdo representa sua barra de \nprogresso!"
+    },
+    {
+      "4": "É por lá que você sabe seu desempenho \ndurante a fase."
+    },
+    {
+      "5": "Além disso, você vai ver que alguns \nícones estarão em destaque. Isso significa que \nvocê pode interagir com os mesmos durante\na jornada."
+    },
+    {
+      "6": "Agora, sem mais delongas, vamos \ncomeçar o cadastro na plataforma da \nOracle Academy? Tenho certeza que \nseus alunos amarão!"
+    }
+  ],
+  "encontraMemoria": [
+    {
+      "0": "Hm… Acho que para passar para o \npróximo passo, primeiro você terá que \nresolver este jogo da memória!"
+    }
+  ],
+  "completoMemoria": [
+    {
+      "0": "Agora desça com o scroll do mouse \naté o final da página para prosseguir."
+    }
+  ],
+  "botaoCaiu": [
+    {
+      "0": "Ué… Para onde será que o botão \nfoi? Vá atrás dele!"
+    }
+  ],
+  "pegueEnergia": [
+    {
+      "0": "Colete as baterias para energizar\nseu botão."
+    }
+  ],
+  "dormir": [
+    {
+      "0": "Parabéns por concluir a primeira \nfase dessa jornada incrível! Agora \nbasta aguardar o email de confirmação,\npor que não descansar um pouco?"
+    }
+  ],
+  "instituicao": [
+    {
+      "0": "Agora que você já está cadastrado, \nprecisamos saber mais sobre a \nsua instituição."
+    }
+  ],
+  "inscricaoOracle": [
+    {
+      "0": "Nossa, o seu foi rápido. Normalmente \nesperamos 48h. Agora que já tem \numa conta Oracle, pode realizar \no login na plataforma da Academy!"
+    }
+  ],
+  "loginOracle": [
+    {
+      "0": "Agora que você já tem uma conta \nOracle aprovada, pode realizar o \nlogin na plataforma"
+    },
+    {
+      "1": "Caso você não se lembre da sua senha \nvocê pode conferi-la no post-it,\nela foi colocada lá para te ajudar!"
+    }
+  ],
+  "obrigado": [
+    {
+      "0": "Pronto! Dentro de alguns dias você \nreceberá um novo e-mail com mais \ninformações."
+    }
+  ],
+  "olhouPostIt": [
+    {
+      "0": "Que ótimo que você chegou até aqui! \nMas primeiro, precisamos de uma \nconta Oracle. Você se lembra do \ne-mail que estava no post-it?"
+    }
+  ],
+  "naoOlhouPostIt": [
+    {
+      "0": "Que ótimo que você chegou até aqui! \nMas primeiro, precisamos de uma \nconta Oracle. Acho que você deixou \nseu e-mail anotado em algum lugar \npelo quarto…"
+    }
+  ],
+  "senha": [
+    {
+      "0": "A sua senha precisa ser forte! Sempre \nse lembre que ela precisará ter \nno mínimo 8 caracteres, 1 letra \nmaiúscula e 1 minúscula e ao menos \n1 número."
+    }
+  ],
+  "email": [
+    {
+      "0": "Lembre-se o email tem que ser o mesmo \ndo post-it!, caso não se lembre pode\nrevê-lo na casa"
+    }
+  ],
+  "erroEmailLogin": [
+    {
+      "0": "Ops, o seu email parece estar errado, \nrelembre ele precisa ser o mesmo do post-it"
+    }
+  ],
+  "erroSenhaLogin": [
+    {
+      "0": "Ihh, a sua senha não está igual \na usada no cadastro, caso não se \nrecorde ela está no post-it!!"
+    }
+  ]
+}

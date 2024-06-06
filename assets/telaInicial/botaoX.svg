@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30.543978mm"
+   height="30.543978mm"
+   viewBox="0 0 30.543978 30.543978"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#c74634;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.29999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path26"
+       cx="15.271989"
+       cy="15.271989"
+       r="15.271989" />
+    <path
+       style="fill:#241c1c;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.22777;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+       d="M 5.4527479,2.8415627 25.143218,27.851813 Z"
+       id="path37" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#e9c6af;stroke-width:3.107;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 7.2282479,23.773213 23.367678,6.9201527 v 0"
+       id="path38"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#e9c6af;fill-opacity:1;stroke:#e9c6af;stroke-width:3.107;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 7.2568679,6.9487327 23.339108,23.744643 v 0"
+       id="path38-6-9"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
